@@ -1,0 +1,6 @@
+{
+  "name": "အမြန်စိုက်",
+  "description": "Emergency Fast-Growing Crops Guide and Tracker",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
